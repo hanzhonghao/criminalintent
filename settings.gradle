@@ -1,0 +1,1 @@
+include ':chapter3', ':chapter5', ':aidl', ':criminalintent', ':umeng_sdk', ':app'
